@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working as a CS undergraduate student<br>🤝 I’m looking for help with building a good portfolio<br>🌱 I’m currently learning C++, PHP, Java, Js, HTML, CSS<br>💬 Ask me about anything and I'll reply with my honest reaction<br>⚡ Fun fact: I wanna feel something but I don't wanna work to get that "something"
+#  About Me:
+I’m currently working as a CS undergraduate student<br> I’m looking for help with building a good portfolio<br> I’m currently learning C++, PHP, Java, Js, HTML, CSS<br> Ask me about anything and I'll reply with my honest reaction<br> Fun fact: I wanna feel something but I don't wanna work to get that "something"
 
 
 ## 🌐 Socials:
