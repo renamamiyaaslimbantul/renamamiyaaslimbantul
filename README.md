@@ -40,7 +40,6 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=renamamiyaaslimbantul&show_icons=true&locale=en" alt="renamamiyaaslimbantul" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renamamiyaaslimbantul&" alt="renamamiyaaslimbantul" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renamamiyaaslimbantul" alt="renamamiyaaslimbantul" /></a></p>
 
