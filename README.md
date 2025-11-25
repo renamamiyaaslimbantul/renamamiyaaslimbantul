@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" src="https://github.com/renamamiyaaslimbantul/renamamiyaaslimbantul/blob/main/genshin-impact-hu-tao.gif"  />
+<img align="right" height="398" width="383" src="https://github.com/renamamiyaaslimbantul/renamamiyaaslimbantul/blob/main/genshin-impact-hu-tao.gif"  />
 
 ###
 
