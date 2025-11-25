@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/7bL43aKBogcAAAAC/genshin-impact-hu-tao.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/genshin-impact-hu-tao-gif-17128025963641283079"  />
 
 ###
 
