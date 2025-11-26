@@ -41,7 +41,9 @@
 
 ###
 
-![](https://dcbadge.limes.pink/api/shield/USERID)
+![](https://dcbadge.limes.pink/api/shield/1196410251784757261)
+
+###
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renamamiyaaslimbantul&" alt="renamamiyaaslimbantul" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renamamiyaaslimbantul" alt="renamamiyaaslimbantul" /></a></p>
