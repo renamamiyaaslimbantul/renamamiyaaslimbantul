@@ -35,19 +35,17 @@
 
 ###
 
+![](https://dcbadge.limes.pink/api/shield/1196410251784757261)
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/renamamiyaaslimbantul/renamamiyaaslimbantul/output/snake.svg" alt="Snake animation" />
 
 ###
 
-![](https://dcbadge.limes.pink/api/shield/1196410251784757261)
-
-###
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renamamiyaaslimbantul&" alt="renamamiyaaslimbantul" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renamamiyaaslimbantul" alt="renamamiyaaslimbantul" /></a></p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renamamiyaaslimbantul)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
