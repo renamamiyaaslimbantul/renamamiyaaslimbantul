@@ -45,7 +45,13 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renamamiyaaslimbantul)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=renamamiyaaslimbantul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=renamamiyaaslimbantul&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=renamamiyaaslimbantul&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+###
+
+[![](https://visitcount.itsvg.in/api?id=renamamiyaaslimbantul&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 
