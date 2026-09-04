@@ -9,7 +9,9 @@
 ###
 
 <div align="left">
-  [![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31w2eqxhxrgko7xvunletba5pk74&time=0&progress=0&duration=1&footer=wave)](https://open.spotify.com/user/31w2eqxhxrgko7xvunletba5pk74)
+  <a href="https://open.spotify.com/user/31w2eqxhxrgko7xvunletba5pk74">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31w2eqxhxrgko7xvunletba5pk74&amp;time=0&amp;progress=0&amp;duration=1&amp;footer=wave" alt="Spotify recently played" width="400" />
+  </a>
 </div>
 
 ###
